@@ -1,4 +1,56 @@
-## Hi there 👋
+## Hey there 👋
+
+I'm **Saurav**, an aspiring **Machine Learning / AI Engineer**.
+
+I’m interested in **Computer Vision** and  
+**Natural Language Processing**, and I enjoy working on problems where AI can create
+real-world impact.
+
+Alongside this, I’m actively learning **full-stack web development** to build  
+**end-to-end applications** — from model training and experimentation to deployment
+and user-facing products.
+
+My goal is to create **real-world AI-powered applications**, not just notebooks.
+
+---
+
+### 🛠 Tools & Tech
+
+**AI / ML**
+- Python  
+- Machine Learning  
+- Deep Learning  
+- Computer Vision  
+- NLP  
+
+**Web & Engineering**
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+- Learning full-stack development (in progress)
+- Model deployment 
+
+---
+
+### 🚀 What I'm Working On
+
+- Strengthening ML & Deep Learning fundamentals  
+- Building AI-driven projects with real use cases  
+- Learning backend & frontend to deploy models as products  
+- Creating projects that combine **AI + Web**  
+
+---
+
+### 📌 A Bit About Me
+
+- 🤖 AI & ML enthusiast  
+- 📚 Strong believer in learning by building  
+- 🧠 Interested in production-ready systems, not just theory  
+- 🎯 Long-term goal: AI/ML Engineer building impactful products  
+
+---
+
+⭐ If you find my work useful, feel free to explore my repositories.
+
 
 <!--
 **Sinha-Saurav/Sinha-Saurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
