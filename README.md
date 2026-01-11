@@ -43,10 +43,6 @@ My goal is to create **real-world AI-powered applications**, not just notebooks.
 - 🧠 Interested in production-ready systems, not just theory. 
 - 🎯 Long-term goal: AI/ML Engineer building impactful products.  
 
----
-
-⭐ If you find my work useful, feel free to explore my repositories.
-
 
 <!--
 **Sinha-Saurav/Sinha-Saurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
