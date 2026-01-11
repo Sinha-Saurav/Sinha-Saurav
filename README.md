@@ -16,36 +16,32 @@ My goal is to create **real-world AI-powered applications**, not just notebooks.
 
 ### 🛠 Tools & Tech
 
-**AI / ML**
-- Python  
-- Machine Learning  
-- Deep Learning  
-- Computer Vision  
-- NLP  
+| AI / ML | Web & Engineering |
+|--------|------------------|
+| Python | HTML, CSS, JavaScript |
+| Machine Learning | Git & GitHub |
+| Deep Learning | Full-stack development (in progress) |
+| Computer Vision | Model deployment |
+| NLP | |
 
-**Web & Engineering**
-- HTML, CSS, JavaScript  
-- Git & GitHub  
-- Learning full-stack development (in progress)
-- Model deployment 
 
 ---
 
 ### 🚀 What I'm Working On
 
-- Strengthening ML & Deep Learning fundamentals  
-- Building AI-driven projects with real use cases  
-- Learning backend & frontend to deploy models as products  
-- Creating projects that combine **AI + Web**  
+- Strengthening ML & Deep Learning fundamentals.
+- Building AI-driven projects with real use cases.  
+- Learning backend & frontend to deploy models as products.
+- Creating projects that combine **AI + Web**.
 
 ---
 
 ### 📌 A Bit About Me
 
-- 🤖 AI & ML enthusiast  
-- 📚 Strong believer in learning by building  
-- 🧠 Interested in production-ready systems, not just theory  
-- 🎯 Long-term goal: AI/ML Engineer building impactful products  
+- 🤖 AI & ML enthusiast.
+- 📚 Strong believer in learning by building.  
+- 🧠 Interested in production-ready systems, not just theory. 
+- 🎯 Long-term goal: AI/ML Engineer building impactful products.  
 
 ---
 
