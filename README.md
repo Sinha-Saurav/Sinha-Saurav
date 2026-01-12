@@ -2,9 +2,7 @@
 
 I'm **Saurav**, an aspiring **Machine Learning / AI Engineer**.
 
-I’m interested in **Computer Vision** and  
-**Natural Language Processing**, and I enjoy working on problems where AI can create
-real-world impact.
+I’m interested in **Machine Learning**, and I enjoy working on problems where AI can create real-world impact.
 
 Alongside this, I’m actively learning **full-stack web development** to build  
 **end-to-end applications** — from model training and experimentation to deployment
@@ -34,14 +32,7 @@ My goal is to create **real-world AI-powered applications**, not just notebooks.
 - Learning backend & frontend to deploy models as products.
 - Creating projects that combine **AI + Web**.
 
----
-
-### 📌 A Bit About Me
-
-- 🤖 AI & ML enthusiast.
-- 📚 Strong believer in learning by building.  
-- 🧠 Interested in production-ready systems, not just theory. 
-- 🎯 Long-term goal: AI/ML Engineer building impactful products.  
+---  
 
 
 <!--
