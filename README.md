@@ -1,51 +1,38 @@
-## Hey there 👋
+# Hi, I'm Saurav 👋
 
-I'm **Saurav**, an aspiring **Machine Learning / AI Engineer**.
-
-I’m interested in **Machine Learning**, and I enjoy working on problems where AI can create real-world impact.
-
-Alongside this, I’m actively learning **full-stack web development** to build  
-**end-to-end applications** — from model training and experimentation to deployment
-and user-facing products.
-
-My goal is to create **real-world AI-powered applications**, not just notebooks.
+**AI Full Stack Developer** · Building real-world AI-powered applications
 
 ---
 
-### 🛠 Tools & Tech
+### 🧠 About Me
+
+I'm a final-year B.Tech IT student passionate about building at the intersection of **AI and the web**. I work across the full stack — from training ML/DL models to deploying them as user-facing products. Currently diving into **Generative AI** (LLMs, RAG, prompt engineering) through an IBM internship course.
+
+My goal: ship real applications, not just notebooks.
+
+---
+
+### 🛠 Tech Stack
 
 | AI / ML | Web & Engineering |
-|--------|------------------|
-| Python | HTML, CSS, JavaScript |
-| Machine Learning | Git & GitHub |
-| Deep Learning | Full-stack development (in progress) |
-| Computer Vision | Model deployment |
-| NLP | |
-
+|---------|-------------------|
+| Python | React · Node.js |
+| Machine Learning | Express · Supabase |
+| Deep Learning | HTML · CSS · JS |
+| Computer Vision | Git & GitHub |
+| NLP | | REST APIs |
 
 ---
 
-### 🚀 What I'm Working On
+### 🚀 What I'm Building
 
-- Strengthening ML & Deep Learning fundamentals.
-- Building AI-driven projects with real use cases.  
-- Learning backend & frontend to deploy models as products.
-- Creating projects that combine **AI + Web**.
+- **[ApplyOrbit](your-link-here)** — AI-powered job application tracker with Kanban board, resume ATS scoring, and Gemini-based resume tailoring · *React + Express + Supabase*
+- Strengthening GenAI fundamentals — LLMs, prompt engineering, RAG pipelines
+- End-to-end projects that combine AI backends with deployed web frontends
 
----  
+---
 
+### 📫 Connect
 
-<!--
-**Sinha-Saurav/Sinha-Saurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/saurav-sinha-67501328b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sinhasauravofficial@gmail.com)
