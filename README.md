@@ -16,11 +16,11 @@ My goal: ship real applications, not just notebooks.
 
 | AI / ML | Web & Engineering |
 |---------|-------------------|
-| Python | React · Node.js |
+| Python | React · Next.js . Node.js |
 | Machine Learning | Express · Supabase |
-| Deep Learning | HTML · CSS · JS |
+| Deep Learning | HTML · CSS · JS . TS |
 | Computer Vision | Git & GitHub |
-| NLP | | REST APIs |
+|  | | REST APIs |
 
 ---
 
