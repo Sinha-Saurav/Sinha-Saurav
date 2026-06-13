@@ -6,7 +6,7 @@
 
 ### 🧠 About Me
 
-I'm a final-year B.Tech IT student passionate about building at the intersection of **AI and the web**. I work across the full stack — from training ML/DL models to deploying them as user-facing products. Currently diving into **Generative AI** (LLMs, RAG, prompt engineering).
+I'm a final-year B.Tech IT student passionate about building at the intersection of **AI and the web**. I work across the full stack - from training ML/DL models to deploying them as user-facing products. Currently diving into **Generative AI** (LLMs, RAG, prompt engineering).
 
 My goal: ship real applications, not just notebooks.
 
@@ -37,8 +37,8 @@ My goal: ship real applications, not just notebooks.
 
 ### 🚀 What I'm Building
 
-- **[ApplyOrbit](your-link-here)** — AI-powered job application tracker with Kanban board, resume ATS scoring, and Gemini-based resume tailoring · *React + Express + Supabase*
-- Strengthening GenAI fundamentals — LLMs, prompt engineering, RAG pipelines
+- **[ApplyOrbit](your-link-here)** - AI-powered job application tracker with Kanban board, resume ATS scoring, and Gemini-based resume tailoring · *React + Express + Supabase*
+- Strengthening GenAI fundamentals - LLMs, prompt engineering, RAG pipelines
 - End-to-end projects that combine AI backends with deployed web frontends
 
 ---
