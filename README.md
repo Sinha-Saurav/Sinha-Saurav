@@ -6,7 +6,7 @@
 
 ### 🧠 About Me
 
-I'm a final-year B.Tech IT student passionate about building at the intersection of **AI and the web**. I work across the full stack — from training ML/DL models to deploying them as user-facing products. Currently diving into **Generative AI** (LLMs, RAG, prompt engineering) through an IBM internship course.
+I'm a final-year B.Tech IT student passionate about building at the intersection of **AI and the web**. I work across the full stack — from training ML/DL models to deploying them as user-facing products. Currently diving into **Generative AI** (LLMs, RAG, prompt engineering).
 
 My goal: ship real applications, not just notebooks.
 
