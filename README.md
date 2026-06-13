@@ -37,7 +37,7 @@ My goal: ship real applications, not just notebooks.
 
 ### 🚀 What I'm Building
 
-- **[ApplyOrbit](your-link-here)** - AI-powered job application tracker with Kanban board, resume ATS scoring, and Gemini-based resume tailoring · *React + Express + Supabase*
+- **[ApplyOrbit](https://github.com/Sinha-Saurav/ApplyOrbit)** - AI-powered job application tracker with Kanban board, resume ATS scoring, and Gemini-based resume tailoring · *React + Express + Supabase*
 - Strengthening GenAI fundamentals - LLMs, prompt engineering, RAG pipelines
 - End-to-end projects that combine AI backends with deployed web frontends
 
